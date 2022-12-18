@@ -1,0 +1,7 @@
+
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "json".(Îº‘èøÿÿÿÿ8õ‰¡éÍ0
+\
+java:S4719":Replace Charset.forName() call with StandardCharsets.UTF_8(¬µêùÿÿÿÿ8Ã °éÍ0
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ŒÒ¯éÍ0

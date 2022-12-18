@@ -1,0 +1,33 @@
+
+`	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(¿³µâıÿÿÿÿ
+l
+java:S11924"QDefine a constant instead of duplicating this literal "application/json" 3 times.(¥øÏõüÿÿÿÿ
+`
+java:S1192u"EDefine a constant instead of duplicating this literal "\",
+" 6 times.(Ì×ƒîşÿÿÿÿ
+g
+java:S2095-"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê
+g
+java:S2095@"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(÷œèàşÿÿÿÿ
+\
+java:S10753"ARefactor your code to get this URI from a customizable parameter.(é‚àÍøÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(üËõşÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(÷œèàşÿÿÿÿ
+\
+java:S1075F"ARefactor your code to get this URI from a customizable parameter.(ó¼îüÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(üËõşÿÿÿÿ
+U
+java:S2479v":Remove the non-escaped \u0009 character from this literal.(“«¯ºşÿÿÿÿ
+U
+java:S2479w":Remove the non-escaped \u0009 character from this literal.(‰³½ úÿÿÿÿ
+P
+java:S2479x":Remove the non-escaped \u0009 character from this literal.(¦ÿôÆ
+U
+java:S2479y":Remove the non-escaped \u0009 character from this literal.(œÁ¨»ıÿÿÿÿ
+U
+java:S2479z":Remove the non-escaped \u0009 character from this literal.(À¯ê€úÿÿÿÿ
+P
+java:S2479{":Remove the non-escaped \u0009 character from this literal.(î•¨è
+U
+java:S2479|":Remove the non-escaped \u0009 character from this literal.(¹ñŒ¯ÿÿÿÿÿ
